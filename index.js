@@ -46,7 +46,7 @@ start.onclick=function(){
             hour.innerText='0'+hourC
         }
 
-    },10)    
+    },1000)    
 }
 
 stop.onclick=function(){
